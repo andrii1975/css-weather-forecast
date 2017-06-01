@@ -1,0 +1,152 @@
+*{
+	transition: all.1s ease-in;
+	margin: 0;
+	padding:0;
+	background-color: #000;
+}
+body{
+	display: block;
+	width: 100%;
+	max-width: 1024px;
+	height: 720px;
+	border:15px solid #2782ad;
+	background-color: #309acd;
+	margin: auto;
+	font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+}
+div{
+	display: inline-block;
+	margin-top: 0;
+	
+}
+header{font-size: 0;
+ background-color: #309acd;
+ color: #fff;
+ width: 100%;
+ max-width: 630px;
+ padding:30px;
+ text-align: left;
+ margin: 0 auto;
+}
+.header i,h1{
+	font-size: 30px;
+	background-color: #309acd;
+}
+ul{
+	font-size: 0;
+}
+li{
+	font-size: 20px;
+	color:#fff;
+	display: inline-block;
+	list-style-type: none;
+	padding: 20px 0px ;
+	border: 2px solid #fff; 
+	box-sizing: border-box;
+}
+i{
+	display: inline-block;
+	font-size: 24px;
+	
+}
+main{
+	width: 100%;
+	max-width: 630px;
+	text-align: center;
+	margin: 0 auto;
+	border: 4px solid #fff;
+}
+.lisbon{
+	background-color: #309acd;
+	width: 50%;
+}
+.lisbon div i,.lisbon div{
+	background-color: #309acd;
+}
+.paris{
+	background-color: #30cdcd;
+	width: 25%;
+}
+.paris div i,.paris div{
+	background-color:  #30cdcd;
+}
+.belgrad{
+	background-color: #9a669a;
+	width: 25%;
+}
+.belgrad div i,.belgrad div{
+	background-color: #9a669a;
+}
+.moscow{
+	width: 25%;
+	background-color: #c34646;
+}
+.moscow div i,.moscow div{
+	background-color: #c34646;
+}
+.telaviv{
+	width: 25%;
+	background-color: #e36749;
+}
+.telaviv div i,.telaviv div{
+	background-color: #e36749;
+}
+.cair{
+	width: 25%;
+	background-color: #ffcd66;
+}
+.cair div i,.cair div{
+	background-color: #ffcd66;
+}
+.newyork{
+	width: 25%;
+	background-color: #9acd9a;
+}
+.newyork div i,.newyork div{
+	background-color: #9acd9a;
+}
+.newdelhi{
+	width: 25%;
+	background-color: #669a9a;
+}
+.newdelhi div i,.newdelhi div{
+	background-color: #669a9a;
+}
+.sanfranscisco{
+	width: 50%;
+	background-color: #cd669a;
+}
+.sanfranscisco div i,.sanfranscisco div{
+	background-color: #cd669a;
+}
+.tokyo{
+	width: 25%;
+	background-color: #309a66;
+}
+.tokyo div i,.tokyo div{
+	background-color: #309a66;
+}
+.sydney{
+	width: 100%;
+	background-color: #66669a;
+}
+.sydney div i,.sydney div{
+	background-color: #66669a;
+}
+footer{
+	font-size: 0;
+ background-color: #309acd;
+ color: #fff;
+ width: 100%;
+ max-width: 630px;
+ padding:30px;
+ text-align: left;
+ margin: 0 auto;
+} 
+.footer h2{
+	font-size: 16px;
+	background-color: #309acd;
+}
+li:hover{
+	background-color: rgba(255,255,255,0.7);
+}
